@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension xmlns="http://eobjects.org/datacleaner/extension/1.0">
+	<name>Conf·ident·ify</name>
+	<description>An extension for DataCleaner that makes it easy to consume the Conf·ident·ify cloud services.</description>
+	<package>com.confidentify.datacleaner.components</package>
+	<icon>com/confidentify/datacleaner/components/ConfidentifyCategory.png</icon>
+</extension>
